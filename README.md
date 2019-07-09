@@ -9,4 +9,4 @@ https://alvaroeconomia.blog/2018/01/21/simulador-calculadora-de-pensiones-para-n
 I have the formulae for 34 systems (Defined Benefit, Defined Contribution and Mix/Hybrid) in Latin America and the Caribbean. I am sharing the code to see if I find people willing to build such simulators for other LAC countries. This projects was built upon a bigger project for pension simulators for Latin America. See:
 https://publications.iadb.org/es/presente-y-futuro-de-las-pensiones-en-america-latina-y-el-caribe
 
-The Pensioncalc.py file has the python script. I used Inno Setup (http://www.jrsoftware.org/isinfo.php) to create a Windows Installer for the calculator.
+The Pensioncalc.py file has the python script. I used Inno Setup (http://www.jrsoftware.org/isinfo.php) to create a Windows Installer for the calculator. You can download the Windows Installer here: https://drive.google.com/file/d/1y37eT5M3ClFG9_aJxhGrYyNPJc6jrfO1/view?usp=sharing
